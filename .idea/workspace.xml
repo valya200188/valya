@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="36c21d94-6fde-436b-afe3-26bcaebacaf5" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/homework/index.txt" afterPath="$PROJECT_DIR$/homework/index.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/homework/about.txt" afterPath="$PROJECT_DIR$/homework/about.txt" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,17 +18,17 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="about.txt" pinned="false" current-in-tab="false">
+      <file leaf-file-name="about.txt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/homework/about.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="10" lean-forward="true" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="10" />
+              <caret line="0" column="17" lean-forward="false" selection-start-line="0" selection-start-column="17" selection-end-line="0" selection-end-column="17" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.txt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/homework/index.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
@@ -55,14 +55,17 @@
         <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
+    <push-targets>
+      <push-target-info target-remote="origin" target-branch="Lesson-2" repo="$PROJECT_DIR$" source="Lesson-2" />
+    </push-targets>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/homework/about.txt" />
         <option value="$PROJECT_DIR$/homework/Style.css" />
         <option value="$PROJECT_DIR$/homework/index.html" />
         <option value="$PROJECT_DIR$/homework/index.txt" />
+        <option value="$PROJECT_DIR$/homework/about.txt" />
       </list>
     </option>
   </component>
@@ -216,7 +219,7 @@
       <workItem from="1492969555394" duration="1800000" />
       <workItem from="1493056958969" duration="1534000" />
       <workItem from="1493133542074" duration="2532000" />
-      <workItem from="1493229895010" duration="4930000" />
+      <workItem from="1493229895010" duration="4990000" />
     </task>
     <task id="LOCAL-00001" summary="Додано ім&quot;я">
       <created>1492962438400</created>
@@ -246,11 +249,18 @@
       <option name="project" value="LOCAL" />
       <updated>1493233550472</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Додано  навчальний  заклад">
+      <created>1493235271934</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1493235271934</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13317000" />
+    <option name="totallyTimeSpent" value="13377000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -283,7 +293,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Додано ім&quot;я" />
     <MESSAGE value="Додано навчальний заклад" />
-    <option name="LAST_COMMIT_MESSAGE" value="Додано навчальний заклад" />
+    <MESSAGE value="Додано  навчальний  заклад" />
+    <option name="LAST_COMMIT_MESSAGE" value="Додано  навчальний  заклад" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -386,15 +397,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/homework/about.txt">
+    <entry file="file://$PROJECT_DIR$/homework/index.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="10" lean-forward="true" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="10" />
+          <caret line="0" column="17" lean-forward="false" selection-start-line="0" selection-start-column="17" selection-end-line="0" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/homework/index.txt">
+    <entry file="file://$PROJECT_DIR$/homework/about.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="17" lean-forward="false" selection-start-line="0" selection-start-column="17" selection-end-line="0" selection-end-column="17" />
